@@ -1,10 +1,10 @@
 module.exports = {
-  siteTitle: 'Hi! I\'m Francisco!',
-  siteDescription: `Create your online curriculum in just a few minutes with this starter`,
+  siteTitle: 'Hi! I\'m David!',
+  siteDescription: `My Resume`,
   keyWords: ['gatsbyjs', 'react', 'curriculum'],
-  authorName: 'Francisco Santos',
-  twitterUsername: '_franciscodf',
-  githubUsername: 'santosfrancisco',
+  authorName: 'David Letourneau Dilanchian',
+  twitterUsername: '',
+  githubUsername: 'david-dilan',
   authorAvatar: '/images/avatar.jpeg',
   authorDescription: `Developer, passionate about what I do. Always interested in how the sites were made, I started to study HTML by hobby. <br />
     In 2012 I started working as a support technician and I approached the developers.
@@ -13,19 +13,19 @@ module.exports = {
   skills: [
     {
       name: 'HTML',
-      level: 70
+      level: 80
     },
     {
       name: 'CSS',
-      level: 60
+      level: 70
     },
     {
       name: 'Javascript',
-      level: 50
+      level: 80
     },
     {
       name: 'NodeJs',
-      level: 40
+      level: 90
     },
     {
       name: 'React',
@@ -33,7 +33,7 @@ module.exports = {
     },
     {
       name: 'Git',
-      level: 70
+      level: 90
     }
   ],
   jobs: [
